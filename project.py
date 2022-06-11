@@ -74,7 +74,7 @@ while(True):
                                 +")\n"
                                 )
                         
-                        print("save\n")
+                        print("save ranking\n")
                         selected = soup.select('#content > div.tb_kbo > div > div.tbl_box.p_head > table.pitcher > tbody > tr > td:nth-child(4) > div')[0]
 
                         rows = selected.find_all("li")
