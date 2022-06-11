@@ -1,5 +1,7 @@
 # 22100355 서민재
 
+###youtube link: https://youtu.be/TolS3l8mDic
+
 ## What does this project do? 
 ```
 The program prints team and individual rankings of 
