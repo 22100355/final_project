@@ -2,7 +2,9 @@
 
 ## What does this project do? 
 ```
-The program prints team and individual rankings of domestic baseball, overseas baseball, domestic soccer, overseas soccer, domestic basketball, and overseas basketball leagues. 
+The program prints team and individual rankings of 
+domestic baseball, overseas baseball, domestic soccer, overseas soccer, domestic basketball, 
+and overseas basketball leagues. 
 To output this data, I crawled the data using HTML.
 ```
 
@@ -10,16 +12,19 @@ To output this data, I crawled the data using HTML.
 ```
 As the COVID-19 quarantine rules changed, the number of people visiting the stadium began to increase. 
 One of the things that I think is important when watching sports events is the ranking of teams. 
-This is because it is more fun and immersive to know how much winning or losing the game on the day affects the ranking.
-Therefore, this program is good to use when you want to increase your immersion by checking the ranking when watching a sports event.
+This is because it is more fun and immersive to know 
+how much winning or losing the game on the day affects the ranking.
+Therefore, this program is good to use when you want to increase your immersion 
+by checking the ranking when watching a sports event.
 ```
 
 ##	How to get started? 
+
 To start this program
 1.You need to download requests
 
 ```
-  pip install requests
+pip install requests
 ```
 
 2.You need to download beautifulSoup
@@ -35,5 +40,6 @@ python project.py
 
 ## Where can people get more help, if needed? 
 ```
-If you have any questions or would like to know more about the program, please email smj5997@handong.ac.kr.
+If you have any questions or would like to know more about the program, 
+please email smj5997@handong.ac.kr.
 ```
