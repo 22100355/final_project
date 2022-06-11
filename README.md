@@ -14,9 +14,9 @@ As the COVID-19 quarantine rules changed, the number of people visiting the stad
 To start this program
 1.You need to download requests
 
-'''
+```
   pip install requests
-'''
+```
 
 2.You need to download beautifulSoup
 '''
