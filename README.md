@@ -2,12 +2,16 @@
 
 ## What does this project do? 
 ```
-The program prints team and individual rankings of domestic baseball, overseas baseball, domestic soccer, overseas soccer, domestic basketball, and overseas basketball leagues. To output this data, I crawled the data using HTML.
+The program prints team and individual rankings of domestic baseball, overseas baseball, domestic soccer, overseas soccer, domestic basketball, and overseas basketball leagues. 
+To output this data, I crawled the data using HTML.
 ```
 
 ##	Why is this project useful? 
 ```
-As the COVID-19 quarantine rules changed, the number of people visiting the stadium began to increase. One of the things that I think is important when watching sports events is the ranking of teams. This is because it is more fun and immersive to know how much winning or losing the game on the day affects the ranking. Therefore, this program is good to use when you want to increase your immersion by checking the ranking when watching a sports event.
+As the COVID-19 quarantine rules changed, the number of people visiting the stadium began to increase. 
+One of the things that I think is important when watching sports events is the ranking of teams. 
+This is because it is more fun and immersive to know how much winning or losing the game on the day affects the ranking.
+Therefore, this program is good to use when you want to increase your immersion by checking the ranking when watching a sports event.
 ```
 
 ##	How to get started? 
