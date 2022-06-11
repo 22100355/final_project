@@ -1,6 +1,6 @@
 # 22100355 서민재
 
-###youtube link: https://youtu.be/TolS3l8mDic
+### youtube link: https://youtu.be/TolS3l8mDic
 
 ## What does this project do? 
 ```
